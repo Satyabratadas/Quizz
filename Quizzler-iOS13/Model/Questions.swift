@@ -1,10 +1,4 @@
-//
-//  Questions.swift
-//  Quizzler-iOS13
-//
-//  Created by ARC on 03/03/22.
-//  Copyright © 2022 The App Brewery. All rights reserved.
-//
+/
 
 import Foundation
 
